@@ -139,7 +139,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/cool-team-official/cool-admin-java",
+        link: "https://github.com/cool-team-official/cool-admin-go-next",
       },
     ],
   },
