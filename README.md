@@ -1,0 +1,1 @@
+# cool-admin-go-next-docs
